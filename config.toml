@@ -17,6 +17,7 @@ googleAnalytics = "UA-131406221-1"
     highlightStyle = "solarized-dark"
     highlightLanguages = ["go", "haskell", "kotlin", "scala", "swift", "bash", "css", "diff", "http", "java", "nginx", "php", "python", "shell session", "sql", "html, xml"]
     profilePic = "images/avatar.png"
+    css = ["css/custom.css"]
 
 [[menu.main]]
     url = "/"
