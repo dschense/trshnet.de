@@ -1,26 +1,18 @@
 ---
-draft: false
+draft: true
 hidedate: true
 disableComments: true
 ---
 
-<div class="überschrift1">
-  <p>Impressum Trshnet.de</p>
-</div>
+# Impressum Trshnet.de
 
-<p>&nbsp;</p>
-<hr>
-<p>&nbsp;</p>
+--------------------
 
-<div class="überschrift2">
-  <p>Impressum</p>
-</div>
+## Impressum
 
 <p>&nbsp;</p>
 
-<div class="überschrift3">
-  <p>Verantwortlich im Sinne des § 5 TMG:</p>
-</div>
+### Verantwortlich im Sinne des § 5 TMG:
 
 Trshnet.de<br>
 Jens Walser<br>
@@ -30,26 +22,21 @@ Deutschland<br>
 
 <p>&nbsp;</p>
 
-<div class="überschrift3">
-  <p>Kontakt:</p>
-</div>
+### Kontakt:
+
 
 Telefon: (+49) 176 / 111 160 36<br>
 E-Mail: info@trshnet.de<br>
 
 <p>&nbsp;</p>
 
-<div class="überschrift3">
-  <p>Domains von trshnet.de:</p>
-</div>
+### Domains von trshnet.de:
 
 trshnet.de - Hauptprojekt<br>
 
 <p>&nbsp;</p>
 
-<div class="überschrift3">
-  <p>Adressverarbeitung:</p>
-</div>
+### Adressverarbeitung:
 
 Alle die auf dieser Webseite angegebenen Kontaktinformationen von Personen,
 inklusive etwaiger Fotos dienen ausdrücklich nur zu Informationszwecken bzw.
@@ -60,9 +47,7 @@ genannten Zwecken genutzt werden, behalten wir uns etwaige rechtliche Schritte v
 
 <p>&nbsp;</p>
 
-<div class="überschrift3">
-  <p>Abmahnungsrechtlicher Hinweis:</p>
-</div>
+### Abmahnungsrechtlicher Hinweis:
 
 Eine Verletzung von Schutzrechten Dritter oder eine Situation, die eine Aufforderung
 per anwaltlicher Abmahnung motivieren könnte, entspricht nicht dem mutmaßlichen
@@ -74,15 +59,12 @@ daher als offenkundig mißbräuchlich nicht übernehmen.
 <hr>
 <p>&nbsp;</p>
 
-<div class="überschrift2">
-  <p>Haftungsausschluss (Disclaimer)</p>
-</div>
+## Haftungsausschluss (Disclaimer)
 
 <p>&nbsp;</p>
 
-<div class="überschrift3">
-  <p>Haftung für Inhalte:</p>
-</div>
+### Haftung für Inhalte:
+
 
 Als Diensteanbieter sind wir gemäß § 7 Abs.1 TMG für eigene Inhalte auf diesen Seiten
 nach den allgemeinen Gesetzen verantwortlich. Nach §§ 8 bis 10 TMG sind wir als Diensteanbieter
@@ -94,9 +76,8 @@ ab dem Zeitpunkt der Kenntnis einer konkreten Rechtsverletzung möglich. Bei Bek
 von entsprechenden Rechtsverletzungen werden wir diese Inhalte umgehend entfernen.
 
 <p>&nbsp;</p>
-<div class="überschrift3">
-  <p>Haftung für Links:</p>
-</div>
+
+### Haftung für Links:
 
 Unser Angebot enthält Links zu externen Webseiten Dritter, auf deren Inhalte wir keinen
 Einfluss haben. Deshalb können wir für diese fremden Inhalte auch keine Gewähr übernehmen.
@@ -106,11 +87,10 @@ Rechtsverstöße überprüft. Rechtswidrige Inhalte waren zum Zeitpunkt der Verl
 Eine permanente inhaltliche Kontrolle der verlinkten Seiten ist jedoch ohne konkrete
 Anhaltspunkte einer Rechtsverletzung nicht zumutbar. Bei Bekanntwerden von Rechtsverletzungen
 werden wir derartige Links umgehend entfernen.
+
 <p>&nbsp;</p>
 
-<div class="überschrift3">
-  <p>Urheberrecht:</p>
-</div>
+### Urheberrecht:
 
 Die durch die Seitenbetreiber erstellten Inhalte und Werke auf diesen Seiten unterliegen
 dem deutschen Urheberrecht. Die Vervielfältigung, Bearbeitung, Verbreitung und jede Art der
