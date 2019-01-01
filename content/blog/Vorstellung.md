@@ -1,7 +1,7 @@
 ---
 title: "Vorstellung"
 date: 2019-01-01
-tags: ["Allgemein", "Neuigkeiten", "Update", "trshnet", "trshnet.de", "Vorstellung"]
+tags: ["Allgemein", "Neuigkeiten", "Trshnet", "Vorstellung"]
 draft: false
 ---
 
