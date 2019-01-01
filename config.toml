@@ -2,7 +2,7 @@ baseURL = "https://trshnet.de/"
 languageCode = "de-de"
 title = "Trshnet"
 theme = "minimal"
-disqusShortname = "trshnet" # delete this to disable disqus comments
+disqusShortname = "trshnet-de" # delete this to disable disqus comments
 googleAnalytics = "UA-131406221-1"
 
 [params]
@@ -17,7 +17,7 @@ googleAnalytics = "UA-131406221-1"
     highlightStyle = "solarized-dark"
     highlightLanguages = ["go", "haskell", "kotlin", "scala", "swift", "bash", "css", "diff", "http", "java", "nginx", "php", "python", "shell session", "sql", "html, xml"]
     profilePic = "images/avatar.png"
-    css = ["css/custom.css"]
+    css = ["css/headers.css"] # For more than 1 File: css = ["css/custom1.css", "css/custom2.css"]
 
 [[menu.main]]
     url = "/"
