@@ -5,164 +5,250 @@ disableComments: true
 ---
 
 # ***Datenschutzerklärung***
+--------------------
+
 
 <p>&nbsp;</p>
 
 ## **Trshnet.de**
 
 
-<hr>
+## Datenschutzerklärung
+Personenbezogene Daten (nachfolgend zumeist nur „Daten“ genannt) werden von uns nur im Rahmen der Erforderlichkeit sowie zum Zwecke der Bereitstellung eines funktionsfähigen und nutzerfreundlichen Internetauftritts, inklusive seiner Inhalte und der dort angebotenen Leistungen, verarbeitet.
 
-### I. Allgemeines zur Datenverarbeitung
+Gemäß Art. 4 Ziffer 1. der Verordnung (EU) 2016/679, also der Datenschutz-Grundverordnung (nachfolgend nur „DSGVO“ genannt), gilt als „Verarbeitung“ jeder mit oder ohne Hilfe automatisierter Verfahren ausgeführter Vorgang oder jede solche Vorgangsreihe im Zusammenhang mit personenbezogenen Daten, wie das Erheben, das Erfassen, die Organisation, das Ordnen, die Speicherung, die Anpassung oder Veränderung, das Auslesen, das Abfragen, die Verwendung, die Offenlegung durch Übermittlung, Verbreitung oder eine andere Form der Bereitstellung, den Abgleich oder die Verknüpfung, die Einschränkung, das Löschen oder die Vernichtung.
 
-Wir verarbeiten personenbezogene Daten unserer Nutzer grundsätzlich nur, soweit dies zur Bereitstellung einer funktionsfähigen Website sowie unserer Inhalte und Leistungen erforderlich ist. Wir benutzen keine Analyse Software und binden auch keine Drittanbieter (Google Fonts etc.) ein. Zur leichteren Lesbarkeit sind wichtige Informationen im Text fett hervorgehoben.
+Mit der nachfolgenden Datenschutzerklärung informieren wir Sie insbesondere über Art, Umfang, Zweck, Dauer und Rechtsgrundlage der Verarbeitung personenbezogener Daten, soweit wir entweder allein oder gemeinsam mit anderen über die Zwecke und Mittel der Verarbeitung entscheiden. Zudem informieren wir Sie nachfolgend über die von uns zu Optimierungszwecken sowie zur Steigerung der Nutzungsqualität eingesetzten Fremdkomponenten, soweit hierdurch Dritte Daten in wiederum eigener Verantwortung verarbeiten.
 
-<hr>
+<p>&nbsp;</p>
 
-### II. Verantwortliche Stelle
+***Unsere Datenschutzerklärung ist wie folgt gegliedert:***
 
-Der Verantwortliche im Sinne der Datenschutz-Grundverordnung ist:
+***I. Informationen über uns als Verantwortliche<br>
+II. Rechte der Nutzer und Betroffenen<br>
+III. Informationen zur Datenverarbeitung***<br>
 
-**Trshnet.de**<br>
+<p>&nbsp;</p>
+
+### I. Informationen über uns als Verantwortliche
+
+Verantwortlicher Anbieter dieses Internetauftritts im datenschutzrechtlichen Sinne ist:
+
+Trshnet<br>
 Jens Walser<br>
 Esslingerstraße 1<br>
 72669 Unterensingen<br>
 Deutschland<br>
-Telefon: (+49) 176 / 111 160 36<br>
-E-Mail: info@trshnet.de<br>
+
+Telefon: +49 (0) 175 1111 60 36<br>
+E-Mail: kontakt@trshnet.de<br>
+
+<p>&nbsp;</p>
+
+### II. Rechte der Nutzer und Betroffenen
+Mit Blick auf die nachfolgend noch näher beschriebene Datenverarbeitung haben die Nutzer und Betroffenen das Recht
+
+- auf Bestätigung, ob sie betreffende Daten verarbeitet werden, auf Auskunft über die verarbeiteten Daten, auf weitere Informationen über die Datenverarbeitung sowie auf Kopien der Daten (vgl. auch Art. 15 DSGVO);
+- auf Berichtigung oder Vervollständigung unrichtiger bzw. unvollständiger Daten (vgl. auch Art. 16 DSGVO);
+- auf unverzügliche Löschung der sie betreffenden Daten (vgl. auch Art. 17 DSGVO), oder, alternativ, soweit eine weitere Verarbeitung gemäß Art. 17 Abs. 3 DSGVO erforderlich ist, auf Einschränkung der Verarbeitung nach Maßgabe von Art. 18 DSGVO;
+- auf Erhalt der sie betreffenden und von ihnen bereitgestellten Daten und auf Übermittlung dieser Daten an andere Anbieter/Verantwortliche (vgl. auch Art. 20 DSGVO);
+- auf Beschwerde gegenüber der Aufsichtsbehörde, sofern sie der Ansicht sind, dass die sie betreffenden Daten durch den Anbieter unter Verstoß gegen datenschutzrechtliche Bestimmungen verarbeitet werden (vgl. auch Art. 77 DSGVO).
+Darüber hinaus ist der Anbieter dazu verpflichtet, alle Empfänger, denen gegenüber Daten durch den Anbieter offengelegt worden sind, über jedwede Berichtigung oder Löschung von Daten oder die Einschränkung der Verarbeitung, die aufgrund der Artikel 16, 17 Abs. 1, 18 DSGVO erfolgt, zu unterrichten. Diese Verpflichtung besteht jedoch nicht, soweit diese Mitteilung unmöglich oder mit einem unverhältnismäßigen Aufwand verbunden ist. Unbeschadet dessen hat der Nutzer ein Recht auf Auskunft über diese Empfänger.
+
+***Ebenfalls haben die Nutzer und Betroffenen nach Art. 21 DSGVO das Recht auf Widerspruch gegen die künftige Verarbeitung der sie betreffenden Daten, sofern die Daten durch den Anbieter nach Maßgabe von Art. 6 Abs. 1 lit. f) DSGVO verarbeitet werden. Insbesondere ist ein Widerspruch gegen die Datenverarbeitung zum Zwecke der Direktwerbung statthaft.***
+
+<p>&nbsp;</p>
+
+### III. Informationen zur Datenverarbeitung
+Ihre bei Nutzung unseres Internetauftritts verarbeiteten Daten werden gelöscht oder gesperrt, sobald der Zweck der Speicherung entfällt, der Löschung der Daten keine gesetzlichen Aufbewahrungspflichten entgegenstehen und nachfolgend keine anderslautenden Angaben zu einzelnen Verarbeitungsverfahren gemacht werden.
+
+<p>&nbsp;</p>
+
+#### Serverdaten
+Aus technischen Gründen, insbesondere zur Gewährleistung eines sicheren und stabilen Internetauftritts, werden Daten durch Ihren Internet-Browser an uns bzw. an unseren Webspace-Provider übermittelt. Mit diesen sog. Server-Logfiles werden u.a. Typ und Version Ihres Internetbrowsers, das Betriebssystem, die Website, von der aus Sie auf unseren Internetauftritt gewechselt haben (Referrer URL), die Website(s) unseres Internetauftritts, die Sie besuchen, Datum und Uhrzeit des jeweiligen Zugriffs sowie die IP-Adresse des Internetanschlusses, von dem aus die Nutzung unseres Internetauftritts erfolgt, erhoben.
+
+Diese so erhobenen Daten werden vorrübergehend gespeichert, dies jedoch nicht gemeinsam mit anderen Daten von Ihnen.
+
+Diese Speicherung erfolgt auf der Rechtsgrundlage von Art. 6 Abs. 1 lit. f) DSGVO. Unser berechtigtes Interesse liegt in der Verbesserung, Stabilität, Funktionalität und Sicherheit unseres Internetauftritts.
+
+Die Daten werden spätestens nach sieben Tage wieder gelöscht, soweit keine weitere Aufbewahrung zu Beweiszwecken erforderlich ist. Andernfalls sind die Daten bis zur endgültigen Klärung eines Vorfalls ganz oder teilweise von der Löschung ausgenommen.
+
+<p>&nbsp;</p>
+
+#### Cookies
+##### **a) Sitzungs-Cookies/Session-Cookies**
+Wir verwenden mit unserem Internetauftritt sog. Cookies. Cookies sind kleine Textdateien oder andere Speichertechnologien, die durch den von Ihnen eingesetzten Internet-Browser auf Ihrem Endgerät ablegt und gespeichert werden. Durch diese Cookies werden im individuellen Umfang bestimmte Informationen von Ihnen, wie beispielsweise Ihre Browser- oder Standortdaten oder Ihre IP-Adresse, verarbeitet.  
+
+Durch diese Verarbeitung wird unser Internetauftritt benutzerfreundlicher, effektiver und sicherer, da die Verarbeitung bspw. die Wiedergabe unseres Internetauftritts in unterschiedlichen Sprachen oder das Angebot einer Warenkorbfunktion ermöglicht.
+
+Rechtsgrundlage dieser Verarbeitung ist Art. 6 Abs. 1 lit b.) DSGVO, sofern diese Cookies Daten zur Vertragsanbahnung oder Vertragsabwicklung verarbeitet werden.
+
+Falls die Verarbeitung nicht der Vertragsanbahnung oder Vertragsabwicklung dient, liegt unser berechtigtes Interesse in der Verbesserung der Funktionalität unseres Internetauftritts. Rechtsgrundlage ist in dann Art. 6 Abs. 1 lit. f) DSGVO.
+
+Mit Schließen Ihres Internet-Browsers werden diese Session-Cookies gelöscht.
+
+<p>&nbsp;</p>
+
+##### **b) Drittanbieter-Cookies**
+Gegebenenfalls werden mit unserem Internetauftritt auch Cookies von Partnerunternehmen, mit denen wir zum Zwecke der Werbung, der Analyse oder der Funktionalitäten unseres Internetauftritts zusammenarbeiten, verwendet.
+
+Die Einzelheiten hierzu, insbesondere zu den Zwecken und den Rechtsgrundlagen der Verarbeitung solcher Drittanbieter-Cookies, entnehmen Sie bitte den nachfolgenden Informationen.
+
+<p>&nbsp;</p>
+
+##### **c) Beseitigungsmöglichkeit**
+Sie können die Installation der Cookies durch eine Einstellung Ihres Internet-Browsers verhindern oder einschränken. Ebenfalls können Sie bereits gespeicherte Cookies jederzeit löschen. Die hierfür erforderlichen Schritte und Maßnahmen hängen jedoch von Ihrem konkret genutzten Internet-Browser ab. Bei Fragen benutzen Sie daher bitte die Hilfefunktion oder Dokumentation Ihres Internet-Browsers oder wenden sich an dessen Hersteller bzw. Support. Bei sog. Flash-Cookies kann die Verarbeitung allerdings nicht über die Einstellungen des Browsers unterbunden werden. Stattdessen müssen Sie insoweit die Einstellung Ihres Flash-Players ändern. Auch die hierfür erforderlichen Schritte und Maßnahmen hängen von Ihrem konkret genutzten Flash-Player ab. Bei Fragen benutzen Sie daher bitte ebenso die Hilfefunktion oder Dokumentation Ihres Flash-Players oder wenden sich an den Hersteller bzw. Benutzer-Support.
+
+Sollten Sie die Installation der Cookies verhindern oder einschränken, kann dies allerdings dazu führen, dass nicht sämtliche Funktionen unseres Internetauftritts vollumfänglich nutzbar sind.
+
+<p>&nbsp;</p>
+
+#### Kundenkonto / Registrierungsfunktion
+Falls Sie über unseren Internetauftritt ein Kundenkonto bei uns anlegen, werden wir die von Ihnen bei der Registrierung eingegebenen Daten (also bspw. Ihren Namen, Ihre Anschrift oder Ihre E-Mail-Adresse) ausschließlich für vorvertragliche Leistungen, für die Vertragserfüllung oder zum Zwecke der Kundenpflege (bspw. um Ihnen eine Übersicht über Ihre bisherigen Bestellungen bei uns zur Verfügung zu stellen oder um Ihnen die sog. Merkzettelfunktion anbieten zu können) erheben und speichern. Gleichzeitig speichern wir dann die IP-Adresse und das Datum Ihrer Registrierung nebst Uhrzeit. Eine Weitergabe dieser Daten an Dritte erfolgt natürlich nicht.
+
+Im Rahmen des weiteren Anmeldevorgangs wird Ihre Einwilligung in diese Verarbeitung eingeholt und auf diese Datenschutzerklärung verwiesen. Die dabei von uns erhobenen Daten werden ausschließlich für die Zurverfügungstellung des Kundenkontos verwendet.
+
+Soweit Sie in diese Verarbeitung einwilligen, ist Art. 6 Abs. 1 lit. a) DSGVO Rechtsgrundlage für die Verarbeitung.
+
+Sofern die Eröffnung des Kundenkontos zusätzlich auch vorvertraglichen Maßnahmen oder der Vertragserfüllung dient, so ist Rechtsgrundlage für diese Verarbeitung auch noch Art. 6 Abs. 1 lit. b) DSGVO.
+
+Die uns erteilte Einwilligung in die Eröffnung und den Unterhalt des Kundenkontos können Sie gemäß Art. 7 Abs. 3 DSGVO jederzeit mit Wirkung für die Zukunft widerrufen. Hierzu müssen Sie uns lediglich über Ihren Widerruf in Kenntnis setzen.
+
+Die insoweit erhobenen Daten werden gelöscht, sobald die Verarbeitung nicht mehr erforderlich ist. Hierbei müssen wir aber steuer- und handelsrechtliche Aufbewahrungsfristen beachten.
+
+<p>&nbsp;</p>
+
+#### Kontaktanfragen / Kontaktmöglichkeit
+Sofern Sie per Kontaktformular oder E-Mail mit uns in Kontakt treten, werden die dabei von Ihnen angegebenen Daten zur Bearbeitung Ihrer Anfrage genutzt. Die Angabe der Daten ist zur Bearbeitung und Beantwortung Ihre Anfrage erforderlich - ohne deren Bereitstellung können wir Ihre Anfrage nicht oder allenfalls eingeschränkt beantworten.
+
+Rechtsgrundlage für diese Verarbeitung ist Art. 6 Abs. 1 lit. b) DSGVO.
+
+Ihre Daten werden gelöscht, sofern Ihre Anfrage abschließend beantwortet worden ist und der Löschung keine gesetzlichen Aufbewahrungspflichten entgegenstehen, wie bspw. bei einer sich etwaig anschließenden Vertragsabwicklung.
+
+<p>&nbsp;</p>
+
+#### Nutzerbeiträge, Kommentare und Bewertungen
+Wir bieten Ihnen an, auf unseren Internetseiten Fragen, Antworten, Meinungen oder Bewertungen, nachfolgend nur „Beiträge genannt, zu veröffentlichen. Sofern Sie dieses Angebot in Anspruch nehmen, verarbeiten und veröffentlichen wir Ihren Beitrag, Datum und Uhrzeit der Einreichung sowie das von Ihnen ggf. genutzte Pseudonym.
+
+Rechtsgrundlage hierbei ist Art. 6 Abs. 1 lit. a) DSGVO. Die Einwilligung können Sie gemäß Art. 7 Abs. 3 DSGVO jederzeit mit Wirkung für die Zukunft widerrufen. Hierzu müssen Sie uns lediglich über Ihren Widerruf in Kenntnis setzen.
+
+Darüber hinaus verarbeiten wir auch Ihre IP- und E-Mail-Adresse. Die IP-Adresse wird verarbeitet, weil wir ein berechtigtes Interesse daran haben, weitere Schritte einzuleiten oder zu unterstützen, sofern Ihr Beitrag in Rechte Dritter eingreift und/oder er sonst wie rechtswidrig erfolgt.
+
+Rechtsgrundlage ist in diesem Fall Art. 6 Abs. 1 lit. f) DSGVO. Unser berechtigtes Interesse liegt in der ggf. notwendigen Rechtsverteidigung.
+
+<p>&nbsp;</p>
+
+#### Abonnement von Beiträgen
+Sofern Sie Beiträge auf unseren Internetseiten veröffentlichen, bieten wir Ihnen zusätzlich an, etwaige Folgebeiträge Dritter zu abonnieren. Um Sie über diese Folgebeiträge per E-Mail informieren zu können, verarbeiten wir Ihre E-Mail-Adresse.
+
+Rechtsgrundlage hierbei ist Art. 6 Abs. 1 lit. a) DSGVO. Die Einwilligung in dieses Abonnement können Sie gemäß Art. 7 Abs. 3 DSGVO jederzeit mit Wirkung für die Zukunft widerrufen. Hierzu müssen Sie uns lediglich über Ihren Widerruf in Kenntnis setzen oder den in der jeweiligen E-Mail enthaltenen Abmeldelink betätigen.
+
+<p>&nbsp;</p>
+
+#### Google Analytics
+In unserem Internetauftritt setzen wir Google Analytics ein. Hierbei handelt es sich um einen Webanalysedienst der Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043 USA, nachfolgend nur „Google“ genannt.
+
+Durch die Zertifizierung nach dem EU-US-Datenschutzschild („EU-US Privacy Shield“)
+
+https://www.privacyshield.gov/participant?id=a2zt000000001L5AAI&status=Active
+
+garantiert Google, dass die Datenschutzvorgaben der EU auch bei der Verarbeitung von Daten in den USA eingehalten werden.
+
+Der Dienst Google Analytics dient zur Analyse des Nutzungsverhaltens unseres Internetauftritts. Rechtsgrundlage ist Art. 6 Abs. 1 lit. f) DSGVO. Unser berechtigtes Interesse liegt in der Analyse, Optimierung und dem wirtschaftlichen Betrieb unseres Internetauftritts.
+
+Nutzungs- und nutzerbezogene Informationen, wie bspw. IP-Adresse, Ort, Zeit oder Häufigkeit des Besuchs unseres Internetauftritts, werden dabei an einen Server von Google in den USA übertragen und dort gespeichert. Allerdings nutzen wir Google Analytics mit der sog. Anonymisierungsfunktion. Durch diese Funktion kürzt Google die IP-Adresse schon innerhalb der EU bzw. des EWR.
+
+Die so erhobenen Daten werden wiederum von Google genutzt, um uns eine Auswertung über den Besuch unseres Internetauftritts sowie über die dortigen Nutzungsaktivitäten zur Verfügung zu stellen. Auch können diese Daten genutzt werden, um weitere Dienstleistungen zu erbringen, die mit der Nutzung unseres Internetauftritts und der Nutzung des Internets zusammenhängen.
+
+Google gibt an, Ihre IP-Adresse nicht mit anderen Daten zu verbinden. Zudem hält Google unter
+
+https://www.google.com/intl/de/policies/privacy/partners
+
+weitere datenschutzrechtliche Informationen für Sie bereit, so bspw. auch zu den Möglichkeiten, die Datennutzung zu unterbinden.
+
+Zudem bietet Google unter
+
+https://tools.google.com/dlpage/gaoptout?hl=de
+
+ein sog. Deaktivierungs-Add-on nebst weiteren Informationen hierzu an. Dieses Add-on lässt sich mit den gängigen Internet-Browsern installieren und bietet Ihnen weitergehende Kontrollmöglichkeit über die Daten, die Google bei Aufruf unseres Internetauftritts erfasst. Dabei teilt das Add-on dem JavaScript (ga.js) von Google Analytics mit, dass Informationen zum Besuch unseres Internetauftritts nicht an Google Analytics übermittelt werden sollen. Dies verhindert aber nicht, dass Informationen an uns oder an andere Webanalysedienste übermittelt werden. Ob und welche weiteren Webanalysedienste von uns eingesetzt werden, erfahren Sie natürlich ebenfalls in dieser Datenschutzerklärung.
+
+<p>&nbsp;</p>
+
+#### Google Fonts
+In unserem Internetauftritt setzen wir Google Fonts zur Darstellung externer Schriftarten ein. Es handelt sich hierbei um einen Dienst der Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043 USA, nachfolgend nur „Google“ genannt.
+
+Durch die Zertifizierung nach dem EU-US-Datenschutzschild („EU-US Privacy Shield“)
+
+https://www.privacyshield.gov/participant?id=a2zt000000001L5AAI&status=Active
+
+garantiert Google, dass die Datenschutzvorgaben der EU auch bei der Verarbeitung von Daten in den USA eingehalten werden.
+
+Um die Darstellung bestimmter Schriften in unserem Internetauftritt zu ermöglichen, wird bei Aufruf unseres Internetauftritts eine Verbindung zu dem Google-Server in den USA aufgebaut.
+
+Rechtsgrundlage ist Art. 6 Abs. 1 lit. f) DSGVO. Unser berechtigtes Interesse liegt in der Optimierung und dem wirtschaftlichen Betrieb unseres Internetauftritts.
+
+Durch die bei Aufruf unseres Internetauftritts hergestellte Verbindung zu Google kann Google ermitteln, von welcher Website Ihre Anfrage gesendet worden ist und an welche IP-Adresse die Darstellung der Schrift zu übermitteln ist.
+
+Google bietet unter
+
+https://adssettings.google.com/authenticated
+
+https://policies.google.com/privacy
+
+weitere Informationen an und zwar insbesondere zu den Möglichkeiten der Unterbindung der Datennutzung.
+
+<p>&nbsp;</p>
+
+#### „Twitter“-Social-Plug-in
+In unserem Internetauftritt setzen wir das Plug-in des Social-Networks Twitter ein. Bei Twitter handelt es sich um einen Internetservice der Twitter Inc., 795 Folsom St., Suite 600, San Francisco, CA 94107, USA, nachfolgend nur „Twitter“ genannt.
+
+Durch die Zertifizierung nach dem EU-US-Datenschutzschild („EU-US Privacy Shield“)
+
+https://www.privacyshield.gov/participant?id=a2zt0000000TORzAAO&status=Active
+
+garantiert Twitter, dass die Datenschutzvorgaben der EU auch bei der Verarbeitung von Daten in den USA eingehalten werden.
+
+Rechtsgrundlage ist Art. 6 Abs. 1 lit. f) DSGVO. Unser berechtigtes Interesse liegt in der Qualitätsverbesserung unseres Internetauftritts.
+
+Sofern das Plug-in auf einer der von Ihnen besuchten Seiten unseres Internetauftritts hinterlegt ist, lädt Ihr Internet-Browser eine Darstellung des Plug-ins von den Servern von Twitter in den USA herunter. Aus technischen Gründen ist es dabei notwendig, dass Twitter Ihre IP-Adresse verarbeitet. Daneben werden aber auch Datum und Uhrzeit des Besuchs unserer Internetseiten erfasst.
+
+Sollten Sie bei Twitter eingeloggt sein, während Sie eine unserer mit dem Plug-in versehenen Internetseite besuchen, werden die durch das Plug-in gesammelten Informationen Ihres konkreten Besuchs von Twitter erkannt. Die so gesammelten Informationen weist Twitter womöglich Ihrem dortigen persönlichen Nutzerkonto zu. Sofern Sie also bspw. den sog. „Teilen“-Button von Twitter benutzen, werden diese Informationen in Ihrem Twitter-Nutzerkonto gespeichert und ggf. über die Plattform von Twitter veröffentlicht. Wenn Sie das verhindern möchten, müssen Sie sich entweder vor dem Besuch unseres Internetauftritts bei Twitter ausloggen oder die entsprechenden Einstellungen in Ihrem Twitter-Benutzerkonto vornehmen.
+
+Weitergehende Informationen über die Erhebung und Nutzung von Daten sowie Ihre diesbezüglichen Rechte und Schutzmöglichkeiten hält Twitter in den unter
+
+https://twitter.com/privacy
+
+abrufbaren Datenschutzhinweisen bereit.
+
+<p>&nbsp;</p>
+
+#### YouTube
+In unserem Internetauftritt setzen wir YouTube ein. Hierbei handelt es sich um ein Videoportal der YouTube LLC., 901 Cherry Ave., 94066 San Bruno, CA, USA, nachfolgend nur „YouTube“ genannt.
+
+YouTube ist ein Tochterunternehmen der Google LLC., 1600 Amphitheatre Parkway, Mountain View, CA 94043 USA, nachfolgend nur „Google“ genannt.
+
+Durch die Zertifizierung nach dem EU-US-Datenschutzschild („EU-US Privacy Shield“)
+
+https://www.privacyshield.gov/participant?id=a2zt000000001L5AAI&status=Active
+
+garantiert Google und damit auch das Tochterunternehmen YouTube, dass die Datenschutzvorgaben der EU auch bei der Verarbeitung von Daten in den USA eingehalten werden.
+
+Wir nutzen YouTube im Zusammenhang mit der Funktion „Erweiterter Datenschutzmodus“, um Ihnen Videos anzeigen zu können. Rechtsgrundlage ist Art. 6 Abs. 1 lit. f) DSGVO. Unser berechtigtes Interesse liegt in der Qualitätsverbesserung unseres Internetauftritts. Die Funktion „Erweiterter Datenschutzmodus“ bewirkt laut Angaben von YouTube, dass die nachfolgend noch näher bezeichneten Daten nur dann an den Server von YouTube übermittelt werden, wenn Sie ein Video auch tatsächlich starten.
+
+Ohne diesen „Erweiterten Datenschutz“ wird eine Verbindung zum Server von YouTube in den USA hergestellt, sobald Sie eine unserer Internetseiten, auf der ein YouTube-Video eingebettet ist, aufrufen.
+
+Diese Verbindung ist erforderlich, um das jeweilige Video auf unserer Internetseite über Ihren Internet-Browser darstellen zu können. Im Zuge dessen wird YouTube zumindest Ihre IP-Adresse, das Datum nebst Uhrzeit sowie die von Ihnen besuchte Internetseite erfassen und verarbeiten. Zudem wird eine Verbindung zu dem Werbenetzwerk „DoubleClick“ von Google hergestellt.
+
+Sollten Sie gleichzeitig bei YouTube eingeloggt sein, weist YouTube die Verbindungsinformationen Ihrem YouTube-Konto zu. Wenn Sie das verhindern möchten, müssen Sie sich entweder vor dem Besuch unseres Internetauftritts bei YouTube ausloggen oder die entsprechenden Einstellungen in Ihrem YouTube-Benutzerkonto vornehmen.
+
+Zum Zwecke der Funktionalität sowie zur Analyse des Nutzungsverhaltens speichert YouTube dauerhaft Cookies über Ihren Internet-Browser auf Ihrem Endgerät. Falls Sie mit dieser Verarbeitung nicht einverstanden sind, haben Sie die Möglichkeit, die Speicherung der Cookies durch eine Einstellung in Ihrem Internet-Browsers zu verhindern. Nähere Informationen hierzu finden Sie vorstehend unter „Cookies“.
+
+Weitergehende Informationen über die Erhebung und Nutzung von Daten sowie Ihre diesbezüglichen Rechte und Schutzmöglichkeiten hält Google in den unter
+
+https://policies.google.com/privacy
+
+abrufbaren Datenschutzhinweisen bereit.
+
 
 <hr>
-
-### III. Einsatzgebiet dieser Datenschutzerklärung
-
-Diese Datenschutzerklärung ist, sofern nicht zusätzlich oder anders geregelt,
-für alle Domains (TLD) des Trshnet.de sowie den zugehörigen Sub-Domains gültig.<br>
-
-Folgende TLD werden vom Verein betrieben: trshnet.de
-
-<hr>
-
-### IV. Erhebung und Verarbeitung personenbezogener Daten
-
-
 <p>&nbsp;</p>
-
-#### 1. Bereitstellung der Website
-
-
-Bei jedem Aufruf unserer Internetseite erfasst unser System automatisiert Daten und Informationen vom Computersystem des aufrufenden Rechners. Folgende Daten werden hierbei erhoben:<br>
-
-• Informationen über den Browsertyp und die verwendete Version<br>
-• Das Betriebssystem des Nutzers<br>
-• Die IP-Adresse des Nutzers<br>
-• Datum und Uhrzeit des Zugriffs<br>
-
-Eine Speicherung dieser Daten zusammen mit anderen personenbezogenen Daten des Nutzers findet nicht statt. Die vorübergehende Speicherung der IP-Adresse durch das System ist notwendig, um eine Auslieferung der Website an den Rechner des Nutzers zu ermöglichen. Hierfür muss die IP-Adresse des Nutzers für die Dauer der Sitzung gespeichert bleiben.
-
-Die **Speicherung in Logfiles erfolgt für 72 Stunden in anonymisierter Form**, um die Funktionsfähigkeit der Website sowie die Sicherheit unserer informationstechnischen Systeme zu gewährleisten. **Die IP Adressen werden gelöscht oder verfremdet**, sodass eine Zuordnung des aufrufenden Clients nicht mehr möglich ist.
-
-Die Erfassung der Daten zur Bereitstellung der Website und die Speicherung der Daten in Logfiles ist für den Betrieb der Internetseite zwingend erforderlich. Es besteht folglich seitens des Nutzers keine Widerspruchsmöglichkeit.
-
-Rechtsgrundlage für die vorübergehende Speicherung der Daten und der Logfiles ist Art. 6 Abs. 1 lit. f DSGVO.
-
-<p>&nbsp;</p>
-
-#### 2. Kontaktaufnahme
-
-Eine Kontaktaufnahme über die bereitgestellte E-Mail-Adressen ist möglich. In diesem Fall werden die mit der E-Mail übermittelten personenbezogenen Daten des Nutzers gespeichert. Es erfolgt in diesem Zusammenhang keine Weitergabe der Daten an Dritte. Die Daten werden ausschließlich für die Verarbeitung der Konversation verwendet.
-
-Die Verarbeitung der personenbezogenen Daten dient uns allein zur Bearbeitung der Kontaktaufnahme. Im Falle einer Kontaktaufnahme per E-Mail liegt hieran das erforderliche berechtigte Interesse an der Verarbeitung der Daten. Die sonstigen während des Absendevorgangs verarbeiteten personenbezogenen Daten dienen dazu, die Sicherheit unserer informationstechnischen Systeme sicherzustellen.
-
-Die Daten bleiben maximal 3 Monate ab Beendigung der Korrespondenz gespeichert, es sei denn es bestehen gesetzliche Verpflichtungen, ein berechtigtes Interesse unsererseits oder sonstige vertragliche Verpflichtungen.
-
-Der Nutzer hat jederzeit die Möglichkeit, seine Einwilligung zur Verarbeitung der personenbezogenen Daten zu widerrufen. Nimmt der Nutzer per E-Mail Kontakt mit uns auf, so kann er der Speicherung seiner personenbezogenen Daten jederzeit widersprechen. In einem solchen Fall kann die Konversation nicht fortgeführt werden.
-
-Sollte der Nutzer der Speicherung der Daten widersprechen wollen, kann der Widerspruch via E-Mail eingereicht werden. Alle personenbezogenen Daten, die im Zuge der Kontaktaufnahme gespeichert wurden, werden in diesem Fall gelöscht.
-
-Rechtsgrundlage für die Verarbeitung der Daten, die im Zuge einer Übersendung einer E-Mail übermittelt werden, ist Art. 6 Abs. 1 lit. f DSGVO. Zielt der E-Mail-Kontakt auf den Abschluss eines Vertrages ab, so ist zusätzliche Rechtsgrundlage für die Verarbeitung Art. 6 Abs. 1 lit. b DSGVO.
-
-<hr>
-
-### V. Auftragsverarbeitung gemäß Art. 28 DSGVO
-
-Der Nutzer erklärt sich damit einverstanden, dass durch Beauftragung der folgenden Unternehmen zur Erbringung von Dienstleistungen Daten an diese weitergegeben werden:
-
-**• Servercow.de:** Serverhosting. Sämtliche Daten, die durch Anbieten von Servern und der trshnet.de Website anfallen, werden teils auf Serversystemen von Servercow gespeichert.<br> Verantwortlicher des Unternehmens: André Peter, Kölner Straße 533, 47807 Krefeld.
-
-**• Contabo.de:** Serverhosting. Sämtliche Daten, die durch Anbieten von Servern und der trshnet.de Website anfallen, werden teils auf Serversystemen von mir selbst gespeichert.<br> Verantwortlicher der Server ist Contabo GmbH, Aschauer Straße 32a, 81549 München<br>
-Vertretungsberechtigte Geschäftsführer: Michael Herpich & Michael Bölke, Registergericht: AG München, Registernummer HRB 180722, USt-IdNr.: DE267602842, FA München Körperschaften.<br>
-
-**• Selfhost:** Serverhosting. Sämtliche Daten, die durch Anbieten von Servern und der trshnet.de Website anfallen, werden teils auf Serversystemen von mir selbst gespeichert.<br> Verantwortlicher der Server: Jens Walser, Esslingerstraße 1, 72669 Unterensingen.
-
-Auftragsverarbeitungsverträge mit den genannten Unternehmen liegen vor.
-
-Es werden keine Daten an Dritte weitergeben, außer sie haben dazu Ihre Einwilligung nach Art. 6 Abs. 1 a DSGVO erteilt, eine gesetzliche Verpflichtung nach Art. 6 Abs. 1 c DSGVO besteht, oder wenn wir dies für die Vertragsabwicklung ( Art. 6 Abs. 1 b DSGVO) sowie die Geltendmachung, Ausübung und Verteidigung von Rechtsansprüchen benötigen. (Art. 6 Abs. 1 f DSGVO)
-
-<hr>
-
-### VI. Datenlöschung und Speicherdauer
-
-Die personenbezogenen Daten der betroffenen Person werden gelöscht oder gesperrt, sobald der Zweck der Speicherung entfällt. Eine Speicherung kann darüber hinaus erfolgen, wenn dies durch den Gesetzgeber vorgesehen wurde. Eine Sperrung oder Löschung der Daten erfolgt im Anschluss, wenn die vorgeschriebene Speicherfrist abläuft. Es ist möglich dass trotzdem eine Erforderlichkeit zur weiteren Speicherung der Daten für einen Vertragsabschluss oder eine Vertragserfüllung besteht.
-
-Der Betreiber des Dienstes behält sich vor, sämtliche vom Server gespeicherten Daten in Form von Backups für bis zu einem halben Jahr auf externen Systemen vorzuhalten.<br>
-(Hinweis: Derzeit nutzen wir diesen Rahmen nicht aus und werden nach Evaluierung den exakten Zeitraum an dieser Stelle bekanntgeben)
-
-<hr>
-
-### VII. Rechte der betroffenen Person
-
-
-<p>&nbsp;</p>
-
-#### 1. Auskunftsrecht
-
-
-Sie können von dem Verantwortlichen eine Bestätigung darüber verlangen, ob personenbezogene Daten, die Sie betreffen, von uns verarbeitet werden. Dazu zählen unter anderem: Kategorie der personenbezogenen Daten, Empfänger, Verarbeitungszwecke, Speicherdauer, Herkunft (sofern die Daten aus Drittquellen kommen), Informationen über automatisierte Entscheidungsfindung, deren Details und ggf. Profiling. (Wir führen die beiden letzten Punkte nicht durch) Ausserdem können sie Auskunft über Ihre Rechte (Beschwerderecht, Löschung, Berichtigung, Einschränkung der Verarbeitung )verlangen.
-
-<p>&nbsp;</p>
-
-#### 2. Recht auf Berichtigung
-
-
-Sie haben ein Recht auf Berichtigung und/oder Vervollständigung gegenüber dem Verantwortlichen, sofern die verarbeiteten personenbezogenen Daten, die Sie betreffen, unrichtig oder unvollständig sind. Der Verantwortliche hat die Berichtigung unverzüglich vorzunehmen.
-
-<p>&nbsp;</p>
-
-#### 3. Recht auf Einschränkung der Verarbeitung und Löschung
-
-Sie können die Einschränkung der Verarbeitung der Sie betreffenden personenbezogenen Daten verlangen, wenn Sie die Richtigkeit bestreiten, die Verarbeitung unrechtmäßig ist und Sie die Löschung ablehnen und stattdessen die Einschränkung der Nutzung verlangen, wir diese Daten nicht mehr benötigen, Sie diese jedoch zur Geltendmachung, Ausübung oder Verteidigung von Rechtsansprüchen benötigen, oder wenn Sie Widerspruch gegen die Verarbeitung gemäß Art. 21 Abs. 1 DSGVO eingelegt haben.
-
-Sie können weiters von dem Verantwortlichen verlangen, dass die Sie betreffenden personenbezogenen Daten unverzüglich gelöscht werden, und der Verantwortliche ist verpflichtet, dies zu tun, außer die Verarbeitung ist erforderlich zur Ausübung des Rechts auf freie Meinungsäußerung und Information; zur Erfüllung einer rechtlichen Verpflichtung, aus Gründen des öffentlichen Interesses, zur Geltendmachung, Ausübung oder Verteidigung von Rechtsansprüchen.
-
-<p>&nbsp;</p>
-
-#### 4. Recht auf Datenübertragbarkeit
-
-Sie haben das Recht, die Sie betreffenden personenbezogenen Daten, die Sie dem Verantwortlichen bereitgestellt haben, in einem strukturierten, gängigen und maschinenlesbaren Format zu erhalten. Außerdem haben Sie das Recht diese Daten einem anderen Verantwortlichen übermitteln zu lassen.
-
-<p>&nbsp;</p>
-
-#### 5. Widerspruchs und Widerrufsrecht
-
-Sie haben das Recht, Ihre datenschutzrechtliche Einwilligungserklärung jederzeit zu widerrufen. Durch den Widerruf der Einwilligung wird die Rechtmäßigkeit der aufgrund der Einwilligung bis zum Widerruf erfolgten Verarbeitung nicht berührt.
-
-Sie haben ebenso das Recht, aus Gründen, die sich aus ihrer besonderen Situation ergeben, jederzeit gegen die Verarbeitung der Sie betreffenden personenbezogenen Daten, die aufgrund von Art. 6 Abs. 1 lit. e oder f DSGVO erfolgt, Widerspruch einzulegen.
-
-Werden die Sie betreffenden personenbezogenen Daten verarbeitet, um Direktwerbung zu betreiben, haben Sie das Recht, jederzeit Widerspruch gegen die Verarbeitung zum Zwecke derartiger Werbung einzulegen.
-
-<p>&nbsp;</p>
-
-#### 6. Recht auf Beschwerde bei einer Aufsichtsbehörde
-
-Ihnen steht das Recht auf Beschwerde bei einer Aufsichtsbehörde zu, wenn Sie der Ansicht sind, dass die Verarbeitung der Sie betreffenden personenbezogenen Daten gegen die DSGVO verstößt. Sie können sich grundsätzlich an die zuständige Aufsichtsbehörde Ihres Wohnortes oder Arbeitsplatz wenden.
-
-<hr>
-
-### VIII. Schlussworte
-
-
-Die letzten Änderungen erfolgten am 25.12.2018.<br>
-Wir behalten uns vor diese Datenschutzerklärung jederzeit zu ändern.<br>
-Die aktuelle Version ist jederzeit unter diesem Link zu finden.<br>
-
-<hr>
